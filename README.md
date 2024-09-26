@@ -36,12 +36,6 @@ To set up a local copy of the project
 - Twitter: [@necmigunduz](https://twitter.com/necm_gun)
 - Mail: [necmigunduz@gmail.com](necmigunduz@gmail.com)
 
-👤 **Wandji Bertrand**
-
-- Github: [@wandji20](https://github.com/wandji20)
-- Twitter: [@wandjibertrand](https://twitter.com/wandjibertrand)
-- Linkedin: [Linkedin](https://www.linkedin.com/in/wandji-bertrand/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
